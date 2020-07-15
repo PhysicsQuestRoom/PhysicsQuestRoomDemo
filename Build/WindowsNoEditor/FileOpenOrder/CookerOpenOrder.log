@@ -1,0 +1,710 @@
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset" 0
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/FirstPerson/Animations/FirstPerson_Idle.uasset" 1
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/FirstPerson/Animations/FirstPerson_JumpEnd.uasset" 2
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/FirstPerson/Animations/FirstPerson_JumpLoop.uasset" 3
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/FirstPerson/Animations/FirstPerson_JumpStart.uasset" 4
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/FirstPerson/Animations/FirstPerson_Run.uasset" 5
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 6
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset" 7
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/FirstPerson/Character/Mesh/FirstPersonAnimBlueprint_Copy.uasset" 8
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/FirstPerson/Character/Textures/UE4_LOGO_CARD.uasset" 9
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 10
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.uasset" 11
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset" 12
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/FirstPerson/Meshes/BaseMaterial.uasset" 13
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/FirstPerson/Meshes/CubeMaterialOverride.uasset" 14
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/FirstPersonBP/FirstPersonOverview.uasset" 15
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/FirstPerson/Animations/FirstPerson_Fire.uasset" 16
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/FirstPerson/Animations/FirstPersonFire_Montage.uasset" 17
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/FirstPerson/Meshes/FirstPersonProjectileMaterial.uasset" 18
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/FirstPerson/Meshes/FirstPersonProjectileMesh.uasset" 19
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset" 20
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uasset" 21
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 22
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 23
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 24
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 25
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 26
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 27
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 28
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 29
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 30
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 31
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/FirstPerson/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 32
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/FirstPerson/Character/Textures/UE4_Mannequin__normals.uasset" 33
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 34
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/FirstPerson/Character/Materials/M_UE4Man_Body.uasset" 35
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset" 36
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uasset" 37
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 38
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 39
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 40
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 41
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset" 42
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 43
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 44
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 45
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/FirstPerson/FPWeapon/Textures/T_FPGun_M.uasset" 46
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/FirstPerson/FPWeapon/Textures/T_FPGun_N.uasset" 47
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/FirstPerson/FPWeapon/Materials/M_FPGun.uasset" 48
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset" 49
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun.uasset" 50
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" 51
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Geometry/Meshes/CubeMaterial.uasset" 52
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 53
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Geometry/Meshes/TemplateFloor.uasset" 54
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/InteractiveObjects/Icons/CubeIcon.uasset" 55
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/InteractiveObjects/Icons/TorchIcon.uasset" 56
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Level_Design/Blockouts/lambert1.uasset" 57
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Level_Design/Blockouts/Blockout1.uasset" 58
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Objects/Cappilary/lambert1.uasset" 59
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Objects/Dispersion/M_dispersia_pedestal.uasset" 60
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Objects/Dispersion/M_holder_pedestal.uasset" 61
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Objects/Dispersion/pedestal_dispersia.uasset" 62
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Objects/Dispersion/M_wheel_rubber.uasset" 63
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Objects/Dispersion/M_wheel_slot.uasset" 64
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Objects/Dispersion/wheel.uasset" 65
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 66
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 67
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 68
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 69
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Objects/Photometer/anim_obj__1_.uasset" 70
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Materials/M_Basic_Wall.uasset" 71
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Puzzles/Foucault_Pendulum/Cube_Platform.uasset" 72
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Character/HeadBob/HeadBobShake.uasset" 73
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Character/HeadBob/HeadBobShake_Running.uasset" 74
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 75
+"../../../Engine/Content/BasicShapes/Cube.uasset" 76
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Doors/Door.uasset" 77
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Puzzles/Dispersion_Reference/Materials/PrismMaterial.uasset" 78
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Objects/Dispersion/prism.uasset" 79
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Puzzles/Dispersion_Reference/Prism.uasset" 80
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/TestObjects/Shield/Shield_low_lambert1_BaseColor.uasset" 81
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/TestObjects/Shield/Shield_low_lambert1_Normal.uasset" 82
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/TestObjects/Shield/Shield_low_lambert1_OcclusionRoughnessMetallic.uasset" 83
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/TestObjects/Shield/lambert1.uasset" 84
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/TestObjects/Shield/Shield_low.uasset" 85
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/InteractiveObjects/Shield_Test.uasset" 86
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/TestObjects/Torch/Torch_lambert18_BaseColor.uasset" 87
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/TestObjects/Torch/Torch_lambert18_Normal.uasset" 88
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/TestObjects/Torch/Torch_lambert18_OcclusionRoughnessMetallic.uasset" 89
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/TestObjects/Torch/lambert18.uasset" 90
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/TestObjects/Torch/Torch.uasset" 91
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/InteractiveObjects/TestPickupable.uasset" 92
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Geometry/Meshes/1M_Cube.uasset" 93
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/InteractiveObjects/Icons/batteryicon.uasset" 94
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/InteractiveObjects/Icons/CappilaryIcon.uasset" 95
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/InteractiveObjects/Icons/CubeIcon_Test.uasset" 96
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/InteractiveObjects/Icons/lampicon.uasset" 97
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/InteractiveObjects/Icons/nailicon.uasset" 98
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/InteractiveObjects/Icons/PrismIcon.uasset" 99
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/InteractiveObjects/Icons/shield.uasset" 100
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/InteractiveObjects/Icons/TorchIcon_Test.uasset" 101
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Objects/Cappilary/book.uasset" 102
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Objects/Cappilary/M_candle.uasset" 103
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Objects/Cappilary/M_candle_symbol.uasset" 104
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Objects/Cappilary/M_candlestick.uasset" 105
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Objects/Cappilary/M_wick.uasset" 106
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Objects/Cappilary/candle_with_candlestick.uasset" 107
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Objects/Cappilary/wire_115115116.uasset" 108
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Objects/Cappilary/cup_1.uasset" 109
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Objects/Cappilary/watch.uasset" 110
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Objects/Icons/BookIcon.uasset" 111
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Objects/Icons/CandleIcon.uasset" 112
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Objects/Icons/ClockIcon.uasset" 113
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Objects/Icons/GobletIcon.uasset" 114
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 115
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/TestObjects/Lamp/Lamp_lambert5_BaseColor.uasset" 116
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/TestObjects/Lamp/Lamp_lambert5_Normal.uasset" 117
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/TestObjects/Lamp/Lamp_lambert5_OcclusionRoughnessMetallic.uasset" 118
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/TestObjects/Lamp/lambert5.uasset" 119
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/TestObjects/Lamp/M_Glass.uasset" 120
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/TestObjects/Lamp/Lamp.uasset" 121
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/InteractiveObjects/ReferenceStruct.uasset" 122
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Character/Inventory/InventoryBP.uasset" 123
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Character/Steps/406734__kretopi__steponwood-004.uasset" 124
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Character/Steps/406735__kretopi__steponwood-003.uasset" 125
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Character/Steps/406736__kretopi__steponwood-002.uasset" 126
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Character/Steps/406737__kretopi__steponwood-001.uasset" 127
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Character/Steps/406738__kretopi__steponwood-008.uasset" 128
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Character/Steps/406739__kretopi__steponwood-007.uasset" 129
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Character/Steps/406740__kretopi__steponwood-006.uasset" 130
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Character/Steps/406741__kretopi__steponwood-005.uasset" 131
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Character/Steps/406742__kretopi__steponwood-010.uasset" 132
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Character/Steps/406743__kretopi__steponwood-009.uasset" 133
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Character/Steps/406744__kretopi__steponwood-012.uasset" 134
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Character/Steps/406745__kretopi__steponwood-011.uasset" 135
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Character/Steps/406746__kretopi__steponwood-017.uasset" 136
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Character/Steps/406747__kretopi__steponwood-013.uasset" 137
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Character/Steps/406748__kretopi__steponwood-015.uasset" 138
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Character/Steps/406749__kretopi__steponwood-016.uasset" 139
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Character/Steps/406750__kretopi__steponwood-014.uasset" 140
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Character/Player.uasset" 141
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/InteractiveObjects/Reference.uasset" 142
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Puzzles/Gaos_Gun/Target.uasset" 143
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Puzzles/Oil_Photometer/changable_parameterValues.uasset" 144
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Puzzles/Surface_Tension/lambert1.uasset" 145
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Puzzles/Surface_Tension/Altar_UV.uasset" 146
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Puzzles/Surface_Tension/Materials/WaterNormal.uasset" 147
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Puzzles/Surface_Tension/Materials/WaterTexture.uasset" 148
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Puzzles/Surface_Tension/Materials/Water.uasset" 149
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/TestObjects/cylindr.uasset" 150
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Puzzles/Surface_Tension/WaterBasin_Backup.uasset" 151
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Materials/M_Glass.uasset" 152
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_MacroVariation.uasset" 153
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 154
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 155
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Materials/M_Metal_Copper.uasset" 156
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 157
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 158
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Materials/M_Wood_Oak.uasset" 159
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 160
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 161
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 162
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Materials/M_Wood_Pine.uasset" 163
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Puzzles/Surface_Tension/Box.uasset" 164
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Puzzles/Surface_Tension/Model/M_aquarium.uasset" 165
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Puzzles/Surface_Tension/Model/M_aquarium_glass.uasset" 166
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Puzzles/Surface_Tension/Model/Aquarium_aquarium.uasset" 167
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Puzzles/Surface_Tension/Model/M_aquarium_drawer.uasset" 168
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Puzzles/Surface_Tension/Model/Aquarium_aquarium_drawer.uasset" 169
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Puzzles/Surface_Tension/Model/M_aquarium_table.uasset" 170
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Puzzles/Surface_Tension/Model/Aquarium_aquarium_table.uasset" 171
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Puzzles/Surface_Tension/WaterBasin.uasset" 172
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 173
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 174
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 175
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 176
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Objects/Cappilary/M_book_symbol.uasset" 177
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Objects/Cappilary/MI_Book_Pedestal.uasset" 178
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Objects/Cappilary/M_book_pedestal.uasset" 179
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Objects/Cappilary/pedestal_book.uasset" 180
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Puzzles/Surface_Tension/Pedestals/Pedestal_Book.uasset" 181
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Puzzles/Surface_Tension/Pedestals/Pedestal.uasset" 182
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Architecture/Pillar_50x500.uasset" 183
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Architecture/Wall_400x300.uasset" 184
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Architecture/Wall_400x400.uasset" 185
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Architecture/Wall_500x500.uasset" 186
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 187
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 188
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Audio/Collapse01.uasset" 189
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Audio/Collapse02.uasset" 190
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Audio/Explosion01.uasset" 191
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Audio/Explosion02.uasset" 192
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Audio/Fire01.uasset" 193
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Audio/Fire_Sparks01.uasset" 194
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Audio/Light01.uasset" 195
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Audio/Light01_Cue.uasset" 196
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Audio/Light02.uasset" 197
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Audio/Light02_Cue.uasset" 198
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Audio/Smoke01.uasset" 199
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Audio/Starter_Birds01.uasset" 200
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Audio/Starter_Music01.uasset" 201
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Audio/Starter_Wind05.uasset" 202
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Audio/Starter_Wind06.uasset" 203
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Audio/Steam01.uasset" 204
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Audio/Explosion_Cue.uasset" 205
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Burst_M.uasset" 206
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Particles/Materials/M_Burst.uasset" 207
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 208
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 209
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 210
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 211
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 212
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 213
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 214
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 215
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Particles/P_Explosion.uasset" 216
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 217
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 218
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 219
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 220
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Materials/M_Rock_Marble_Polished_White.uasset" 221
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Bush_D.uasset" 222
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Bush_N.uasset" 223
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Props/Materials/M_Bush.uasset" 224
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Props/SM_Bush.uasset" 225
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Chair_M.uasset" 226
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Chair_N.uasset" 227
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Props/Materials/M_Chair.uasset" 228
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Props/SM_Couch.uasset" 229
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Door_M.uasset" 230
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Door_N.uasset" 231
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Props/Materials/M_Door.uasset" 232
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Props/SM_Door.uasset" 233
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 234
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 235
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 236
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 237
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 238
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_RockMesh_M.uasset" 239
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_RockMesh_N.uasset" 240
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Props/Materials/M_Rock.uasset" 241
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Props/SM_Rock.uasset" 242
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Shelf_M.uasset" 243
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Shelf_N.uasset" 244
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Props/Materials/M_Shelf.uasset" 245
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Props/SM_Shelf.uasset" 246
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Materials/M_Basic_Floor.uasset" 247
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Props/SM_Stairs.uasset" 248
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Shapes/Shape_Cone.uasset" 249
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 250
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Shapes/Shape_Pipe.uasset" 251
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 252
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 253
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Shapes/Shape_Plane.uasset" 254
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Shapes/Shape_Torus.uasset" 255
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Shapes/Shape_Trim.uasset" 256
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 257
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 258
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 259
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Shapes/Shape_Tube.uasset" 260
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 261
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 262
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 263
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/TestObjects/lambert1.uasset" 264
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/TestObjects/cilindr.uasset" 265
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/TestObjects/Lamp/lambert6.uasset" 266
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/TestObjects/Lamp_Seperate/lambert5.uasset" 267
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/TestObjects/Lamp_Seperate/Lamp_pCylinder1.uasset" 268
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/TestObjects/Lamp_Seperate/Lamp_pCylinder15.uasset" 269
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/TestObjects/Lamp_Seperate/lambert6.uasset" 270
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/TestObjects/Lamp_Seperate/Lamp_pCylinder2.uasset" 271
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/_GENERATED/Box.uasset" 272
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/_GENERATED/Cylinder.uasset" 273
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 274
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 275
+"../../../Engine/Content/ArtTools/RenderToTexture/Enums/EFloatTypes.uasset" 276
+"../../../Engine/Content/ArtTools/RenderToTexture/Enums/EIntTypes.uasset" 277
+"../../../Engine/Content/ArtTools/RenderToTexture/Macros/RenderToTextureMacros.uasset" 278
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 279
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 280
+"../../../Engine/Content/BasicShapes/Cone.uasset" 281
+"../../../Engine/Content/BasicShapes/Plane.uasset" 282
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 283
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 284
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 285
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 286
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 287
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 288
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 289
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 290
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 291
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 292
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 293
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 294
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 295
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 296
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 297
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 298
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 299
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 300
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 301
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 302
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 303
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 304
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 305
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 306
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 307
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 308
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 309
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 310
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 311
+"../../../Engine/Content/EditorResources/S_Note.uasset" 312
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 313
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 314
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 315
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 316
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 317
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 318
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 319
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 320
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 321
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 322
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 323
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 324
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 325
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 326
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 327
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 328
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 329
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 330
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 331
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 332
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 333
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 334
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 335
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 336
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 337
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 338
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 339
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 340
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 341
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 342
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 343
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 344
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 345
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 346
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 347
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 348
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 349
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 350
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 351
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 352
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 353
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 354
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 355
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 356
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 357
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 358
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 359
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 360
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 361
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 362
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 363
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 364
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 365
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 366
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 367
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 368
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 369
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 370
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 371
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 372
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 373
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 374
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 375
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 376
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 377
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 378
+"../../../Engine/Content/EngineResources/Black.uasset" 379
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 380
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 381
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 382
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 383
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 384
+"../../../Engine/Content/EngineSounds/Master.uasset" 385
+"../../../Engine/Content/EditorMaterials/TargetIcon.uasset" 386
+"../../../Engine/Content/FunctionalTesting/Blueprints/AITesting_MoveGoal.uasset" 387
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 388
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 389
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 390
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 391
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 392
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 393
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 394
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 395
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 396
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 397
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 398
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 399
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 400
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 401
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 402
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 403
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 404
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 405
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 406
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 407
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 408
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 409
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 410
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 411
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 412
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 413
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 414
+"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 415
+"../../../Engine/Content/EditorBlueprintResources/ActorMacros.uasset" 416
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Class.uasset" 417
+"../../../Engine/Content/Tutorial/Installation/InstallingVisualStudioTutorial.uasset" 418
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 419
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 420
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 421
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 422
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 423
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 424
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 425
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 426
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 427
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 428
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 429
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 430
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 431
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 432
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 433
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 434
+"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithLayer.uasset" 435
+"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithActor.uasset" 436
+"../../Plugins/Experimental/ChaosNiagara/Content/ChaosDestructionListenerActor.uasset" 437
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraBooleanLogicOps.uasset" 438
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraCoordinateSpace.uasset" 439
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraExpansionMode.uasset" 440
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraOrientationAxis.uasset" 441
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 442
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 443
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 444
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 445
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 446
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 447
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 448
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 449
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 450
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 451
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 452
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 453
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Materials/M_Metal_Gold.uasset" 454
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 455
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 456
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 457
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 458
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Minigames/Chess/Meshes/M_chess_piece.uasset" 459
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Minigames/Chess/Meshes/bishop.uasset" 460
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Minigames/Chess/Meshes/M_chess_numbers_letters.uasset" 461
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Minigames/Chess/Meshes/M_chessboard.uasset" 462
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Minigames/Chess/Meshes/M_chessboard_black.uasset" 463
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Minigames/Chess/Meshes/M_chesschecker_white.uasset" 464
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Minigames/Chess/Meshes/chessboard.uasset" 465
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Minigames/Chess/Meshes/M_blue.uasset" 466
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Minigames/Chess/Meshes/M_chesstable.uasset" 467
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Minigames/Chess/Meshes/M_green.uasset" 468
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Minigames/Chess/Meshes/M_purple.uasset" 469
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Minigames/Chess/Meshes/M_red.uasset" 470
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Minigames/Chess/Meshes/M_yellow.uasset" 471
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Minigames/Chess/Meshes/chesstable.uasset" 472
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Minigames/Chess/Meshes/closing_plane.uasset" 473
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Minigames/Chess/Meshes/decagonal_lock.uasset" 474
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Minigames/Chess/Meshes/door_chesstable.uasset" 475
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Minigames/Chess/Meshes/king.uasset" 476
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Minigames/Chess/Meshes/knight.uasset" 477
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Minigames/Chess/Meshes/pawn.uasset" 478
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Minigames/Chess/Meshes/queen.uasset" 479
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Minigames/Chess/Meshes/rake.uasset" 480
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Minigames/Chess/ChessTable.uasset" 481
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Puzzles/Dispersion_Reference/LightSource.uasset" 482
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Objects/Dispersion/gear.uasset" 483
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Objects/Dispersion/M_rail.uasset" 484
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Objects/Dispersion/rail.uasset" 485
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Puzzles/Dispersion_Reference/SlotForPedestal.uasset" 486
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Objects/Dispersion/pedestal_dispersiion_without_wheel.uasset" 487
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Puzzles/Dispersion_Reference/Pedestal.uasset" 488
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 489
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 490
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/DemoSounds/Shoots/Shoot_freesound_checholio.uasset" 491
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/TestObjects/pushka.uasset" 492
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Puzzles/Gaos_Gun/Gaos_Gun.uasset" 493
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Puzzles/Oil_Photometer/ChangableMaterial.uasset" 494
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Puzzles/Oil_Photometer/ChangableMaterialInstance.uasset" 495
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/TestObjects/Lamp_Seperate/Lamp_pCylinder3.uasset" 496
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Puzzles/Oil_Photometer/Platform.uasset" 497
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 498
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 499
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 500
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 501
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 502
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 503
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 504
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 505
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 506
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/FirstPerson/Textures/FirstPersonCrosshair.uasset" 507
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/FirstPersonBP/Blueprints/FirstPersonHUD.uasset" 508
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset" 509
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/LadderSystem/Ladder.uasset" 510
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Puzzles/Foucault_Pendulum/Materials/PlatformRT.uasset" 511
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 512
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Puzzles/Foucault_Pendulum/Materials/DrawerM.uasset" 513
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Puzzles/Foucault_Pendulum/Materials/PlatformM.uasset" 514
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Puzzles/Foucault_Pendulum/ShapeBaseCylinder.uasset" 515
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Puzzles/Foucault_Pendulum/Platform_ForDraw.uasset" 516
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 517
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Puzzles/Foucault_Pendulum/Foucault_Pendulum.uasset" 518
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset" 519
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat4.uasset" 520
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/InteractiveObjects/Highlight_Material.uasset" 521
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Objects/Cappilary/M_candle_symbols.uasset" 522
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Objects/Cappilary/M_pedestal_candle.uasset" 523
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Objects/Cappilary/pedestal_candle.uasset" 524
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Objects/Cappilary/M_cup_pedestal.uasset" 525
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Objects/Cappilary/M_cup_symbol.uasset" 526
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Objects/Cappilary/pedestal_cup.uasset" 527
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Objects/Cappilary/M_watch_pedestal.uasset" 528
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Objects/Cappilary/M_watch_symbol.uasset" 529
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/Objects/Cappilary/pedestal_watch.uasset" 530
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" 531
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 532
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 533
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 534
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 535
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 536
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 537
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 538
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 539
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 540
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 541
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 542
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 543
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 544
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Materials/M_AssetPlatform.uasset" 545
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 546
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 547
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 548
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 549
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 550
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 551
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 552
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 553
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Maps/Advanced_Lighting.umap" 554
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 555
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 556
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 557
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 558
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Statue_M.uasset" 559
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Statue_N.uasset" 560
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 561
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Architecture/Floor_400x400.uasset" 562
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 563
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Props/SM_Chair.uasset" 564
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Props/Materials/M_Statue.uasset" 565
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Props/SM_Statue.uasset" 566
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_TableRound_M.uasset" 567
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_TableRound_N.uasset" 568
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Props/Materials/M_TableRound.uasset" 569
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Props/SM_TableRound.uasset" 570
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Maps/Minimal_Default.umap" 571
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Audio/Fire01_Cue.uasset" 572
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 573
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 574
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 575
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Water_N.uasset" 576
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 577
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 578
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Particles/P_Fire.uasset" 579
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 580
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Audio/Smoke01_Cue.uasset" 581
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Particles/P_Smoke.uasset" 582
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 583
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 584
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Spark_Core.uasset" 585
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Particles/Materials/M_Spark.uasset" 586
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Particles/P_Sparks.uasset" 587
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 588
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Audio/Steam01_Cue.uasset" 589
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Particles/P_Steam_Lit.uasset" 590
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 591
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Lamp_M.uasset" 592
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Lamp_N.uasset" 593
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Props/Materials/M_Lamp.uasset" 594
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 595
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 596
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 597
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 598
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 599
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 600
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 601
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 602
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 603
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 604
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 605
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 606
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 607
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 608
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 609
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 610
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 611
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 612
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 613
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 614
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 615
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 616
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 617
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 618
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 619
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 620
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 621
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 622
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 623
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 624
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 625
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 626
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 627
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 628
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Gradinet_01.uasset" 629
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 630
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 631
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 632
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 633
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 634
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 635
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 636
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 637
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 638
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 639
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 640
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 641
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 642
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 643
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 644
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 645
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 646
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 647
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 648
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Materials/M_Ground_Grass.uasset" 649
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 650
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 651
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 652
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 653
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 654
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Materials/M_Ground_Moss.uasset" 655
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 656
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Materials/M_Metal_Rust.uasset" 657
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 658
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 659
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Materials/M_Metal_Steel.uasset" 660
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 661
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 662
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 663
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 664
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 665
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 666
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 667
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Materials/M_Rock_Slate.uasset" 668
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 669
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 670
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 671
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 672
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 673
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 674
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 675
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 676
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 677
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 678
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 679
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Materials/M_Tech_Panel.uasset" 680
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Materials/M_Water_Lake.uasset" 681
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Water_M.uasset" 682
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Materials/M_Water_Ocean.uasset" 683
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 684
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 685
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Architecture/Wall_400x200.uasset" 686
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 687
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 688
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Audio/Collapse_Cue.uasset" 689
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 690
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 691
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 692
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 693
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Props/MaterialSphere.uasset" 694
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Frame_M.uasset" 695
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Textures/T_Frame_N.uasset" 696
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Props/Materials/M_Frame.uasset" 697
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Props/SM_CornerFrame.uasset" 698
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Props/SM_DoorFrame.uasset" 699
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Props/SM_GlassWindow.uasset" 700
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Props/SM_PillarFrame.uasset" 701
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Props/SM_PillarFrame300.uasset" 702
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Props/SM_WindowFrame.uasset" 703
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Shapes/Shape_Cube.uasset" 704
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 705
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Shapes/Shape_Sphere.uasset" 706
+"../../../../../Unreal Projects/PhysicsQuestRoom/Content/StarterContent/Maps/StarterMap.umap" 707
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 708
+"../../../Engine/Content/Maps/Entry.umap" 709
